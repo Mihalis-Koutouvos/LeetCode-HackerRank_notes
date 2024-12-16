@@ -6,3 +6,5 @@ This repo will contain notes related to my studies of Leetcode and HackerRank as
 With that in mind, the README will be split into several sections so that I can navigate to sections better within the repo itself.
 
 ### **MySQL**
+
+### **Pandas*
