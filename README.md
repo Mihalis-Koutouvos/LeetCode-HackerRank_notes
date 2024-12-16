@@ -7,4 +7,4 @@ With that in mind, the README will be split into several sections so that I can 
 
 ### **MySQL**
 
-### **Pandas*
+### **Pandas**
