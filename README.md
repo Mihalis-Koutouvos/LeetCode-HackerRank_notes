@@ -16,3 +16,4 @@ With that in mind, the README will be split into several sections so that I can 
 ### **JavaScript**
 
 ### **Concepts:**
+Two Sum: In order to handle two-sum problems, 
